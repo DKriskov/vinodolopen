@@ -1,0 +1,81 @@
+
+/*PRIVREMENO  .c_stage { padding-top: 230px; }*/
+
+.ljestvica th { text-align: left }
+.ljestvica .rank { text-align: center; }
+.ljestvica .player { width:50%; }
+.ljestvica .matches { text-align: center; }
+.ljestvica .game { text-align: center; }
+.ljestvica .points { text-align: center; }
+.ljestvica th, .ljestvica td { padding:4px; }
+
+.igrac img { border-radius: 90px; width:90px; border: 1px solid #000; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.9);}
+.igrac .ime { text-align: center; padding: 6px; font-weight: bold; font-size: 14px; margin-top: -20px; background: #272727; position: relative; border-radius: 10px; max-width: 130px;}
+.scoreboard { margin:10px auto 0}
+.scoreboard td { text-align: center; padding: 5px}
+.scoreboard td.set { padding: 20px; font-size: 40px; font-weight: bold; color:#F47E00;}
+.scoreboard td.game { padding: 20px; font-size: 40px; font-weight: bold;}
+
+.scoreboard .igrac { border-right: 1px solid #1D1D1D; padding: 10px }
+.scoreboard .up { border-bottom: 1px solid #1D1D1D }
+
+.mecinfo { text-align: center;  }
+.mecinfo span.title { font-weight: bold; margin-left: 20px; }
+.mecinfo span.item-first { margin-left: 0px; }
+.mecinfo span.item-last { margin-right: 0px; }
+
+.caption-below { 
+	font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 12px;
+}
+
+.upisrezultata td, .upisrezultata td { padding: 5px}
+.num_select { width:50px; font-size: 14px; font-weight: bold; text-align: center;}
+.select_igrac { width: 130px; padding: 0}
+.set{ color:#f47e00;}
+.btn a{ color : white;}
+.btn a:hover{ text-decoration: none;}
+.upisrezultata td{font-size: 14px;}
+.edit {text-align: center; margin-top: 10px}
+.podaci{margin-top: 21px;}
+.buttonwrap button{font-size:15px;}
+#versus{width: 30px; text-align: center;}
+.center{text-align: center;}
+.draw{padding-left: 5px; font-size:16px; }
+.draw span{color:#f47e00;}
+.upisrezultata td.score{font-size: 30px; color:#f47e00;}
+.upisrezultata td.ime{font-size: 20px;}
+.head2head{margin:15px 0;}
+.older{border-bottom: solid 1px rgb(202, 192, 192); margin-bottom: 20px; padding-bottom: 5px;}
+.headtohead,.glava{margin:0 auto;}
+h1.title{text-align:center}
+.profil{height: 20px; padding: 0; margin-left: 15px;}
+.profil_text{ font-size: 15px;}
+.widget-header{margin-top:5px;} 
+.ljestvica-table{margin-bottom:15px;}
+img.img-circle{width:60px; height:60px; margin-right:5px;}
+.outer{ position: relative;}
+.stage {position: absolute; top:-20px; left:60px; font-weight: bold;}
+.pairs p {padding: 5px; margin:0;}
+.pairs p:nth-child(odd) {border-bottom: dashed 1px #f47e00;}
+.pairs:last-child p:last-child{border-bottom: none;}
+.tour_rez{float: right; margin-right: 5px;}
+.pairs{border:solid 1px #f47e00;width: 200px;}
+.stages{margin:20px 0; font-size: 13px;}
+.winner{text-align: center; font-size: 16px; margin-top: 5px; color: #f47e00;}
+.pobjednik{display: block; font-size: 17px; color: #f47e00;}
+.turniri{margin-bottom: 20px;}
+.stage_winner {position: absolute; top:-20px; left:60px; font-weight: bold;}
+.bottom_stages{margin-top: 20px; padding-top: 20px;}
+.stage_winner{font-size: 15px; text-transform: uppercase; left:110px;}
+.down_offset{margin-top: 15px;}
+.top_offset{top: -220px; left:10px;}
+.b_stage .pairs {margin-top: 58px;}
+.b_stage div:nth-child(2){margin-top: 30px;}
+.final {margin-top: 210px;}
+.c_stage .pairs {margin-top: 176px;}
+.c_stage div:nth-child(2){margin-top: 89px;}
+.stage_winner_d{top: -220px; left:80px;}
+.tour-content { margin:0 auto;}
+.unknown {height:18px}
+.prijavi{margin-bottom: 10px;}
